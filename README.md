@@ -1,1 +1,1 @@
-# pokedex com HTML, CSS e JavaScript
+# Pokedex com HTML, CSS e JavaScript
